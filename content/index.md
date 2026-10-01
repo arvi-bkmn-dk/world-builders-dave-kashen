@@ -1,9 +1,9 @@
 ---
-title: World Builders – Dave Kashen
+title: Dave Kashen Knowledge Base
 type: index
 ---
 
-# World Builders – Dave Kashen
+# Dave Kashen Knowledge Base
 
 **A knowledge base of Dave Kashen's published work on the inner game of building a company.**
 
