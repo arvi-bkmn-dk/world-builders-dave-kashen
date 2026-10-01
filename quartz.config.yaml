@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: world-builders-dave-kashen.vercel.app
+  baseUrl: dave-kashen-knowledge-base.vercel.app
   ignorePatterns:
     - private
     - templates
