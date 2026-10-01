@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: The Inner Game of Entrepreneurship
+  pageTitle: World Builders – Dave Kashen
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: ige-public-kb.vercel.app
+  baseUrl: world-builders-dave-kashen.vercel.app
   ignorePatterns:
     - private
     - templates

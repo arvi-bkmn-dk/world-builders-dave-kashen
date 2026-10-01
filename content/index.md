@@ -1,9 +1,9 @@
 ---
-title: The Inner Game of Entrepreneurship
+title: World Builders – Dave Kashen
 type: index
 ---
 
-# The Inner Game of Entrepreneurship
+# World Builders – Dave Kashen
 
 **A knowledge base of Dave Kashen's published work on the inner game of building a company.**
 
