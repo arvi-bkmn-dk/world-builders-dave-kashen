@@ -9,7 +9,7 @@ Atomic notes, one idea each.
 
 **490 teachings.**
 
-### #
+### 0–9
 - [[90% of the time the issues my clients bring are literally not real]]
 
 ### A
