@@ -4,3 +4,4 @@ public/
 .npm-cache/
 .DS_Store
 *.log
+.github/
