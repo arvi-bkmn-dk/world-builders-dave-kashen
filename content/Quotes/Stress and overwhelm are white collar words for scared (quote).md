@@ -1,5 +1,5 @@
 ---
-title: "Stress and overwhelm are white collar words for scared"
+title: "Stress and overwhelm are white collar words for scared (quote)"
 type: quote
 model: "The Overwhelm Recipe"
 topics: [Purpose and Sustainability, Emotions and Fear]

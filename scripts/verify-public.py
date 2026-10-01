@@ -123,7 +123,9 @@ LINK = re.compile(r'\[\[([^\[\]|#]+?)(?:#[^\[\]|]*)?(?:\|[^\[\]]+)?\]\]')
 broken = collections.Counter()
 for rel, p in notes():
     for t in LINK.findall(open(p, encoding='utf-8').read()):
-        if t.strip() not in titles: broken[t.strip()] += 1
+        # a link may be a bare note name or a vault path (Folder/Sub/Note)
+        target = t.strip().split('/')[-1]
+        if target not in titles: broken[t.strip()] += 1
 print(f"[7] broken wikilinks .................. {sum(broken.values())}")
 if broken:
     fails.append(("Broken wikilinks", [f"{c}x  {t}" for t, c in broken.most_common()]))

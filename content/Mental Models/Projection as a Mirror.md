@@ -116,7 +116,7 @@ The practice from the retreat: → [[Go to Dinner as Your Opposite]]
 Dave's own words on this, as their own notes:
 
 - [[Scarcity has within it the notion of not enough]]
-- [[Stress and overwhelm are white collar words for scared]]
+- [[Stress and overwhelm are white collar words for scared (quote)|Stress and overwhelm are white collar words for scared]]
 
 ## Sources
 

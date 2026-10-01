@@ -148,7 +148,7 @@ Every original public piece. The notes are kept here; the full transcripts are n
 - [[MB 05 - Founders, It Doesn't Have to Be This Hard]]
 - [[MB 06 - The Impact of Consciousness on the Israeli-Palestinian Conflict]]
 - [[MB 07 - 2024 Realizations, Why I'm Giving Up]]
-- [[Medium Blogs]]
+- [[Sources/Medium Blogs/Medium Blogs|Medium Blogs]]
 
 ### Guest Appearances
 - [[GA 01 - The Inner Game of Life, Danny Miranda Podcast 394]]

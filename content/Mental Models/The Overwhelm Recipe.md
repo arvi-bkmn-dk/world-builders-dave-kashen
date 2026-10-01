@@ -39,9 +39,9 @@ The recipe is the proof. Nobody could describe the procedure that well unless th
 
 The playfulness is load-bearing. "Teach me your recipe" invites authorship where "you're doing this to yourself" would trigger defence — and it produces evidence in the client's own words rather than the coach's.
 
-> [!quote] [[Stress and overwhelm are white collar words for scared|Stress and overwhelm are white collar words for scared]]
+> [!quote] [[Stress and overwhelm are white collar words for scared (quote)|Stress and overwhelm are white collar words for scared]]
 
-> [!quote] [[Stress and overwhelm are white collar words for scared|Stress and overwhelm are white collar words for scared]]
+> [!quote] [[Stress and overwhelm are white collar words for scared (quote)|Stress and overwhelm are white collar words for scared]]
 
 ## Connections
 

@@ -25,7 +25,7 @@ His account of where the fear comes from:
 
 Two different things sharing a name. Snake-fear is information about the present. Manufactured fear is a story, and is what [[Overwhelm cannot be found in the present moment|can't survive the present-moment test]].
 
-> [!quote] [[Stress and overwhelm are white collar words for scared|Stress and overwhelm are white collar words for scared]]
+> [!quote] [[Stress and overwhelm are white collar words for scared (quote)|Stress and overwhelm are white collar words for scared]]
 
 ## Related Concepts
 

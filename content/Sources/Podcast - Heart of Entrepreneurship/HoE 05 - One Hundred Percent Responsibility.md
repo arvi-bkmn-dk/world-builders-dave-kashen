@@ -79,7 +79,7 @@ The live coaching is on Andrew's overwhelm, and it's the best sequence in the ba
 
 ## Quotes
 
-- [[Stress and overwhelm are white collar words for scared]]
+- [[Stress and overwhelm are white collar words for scared (quote)|Stress and overwhelm are white collar words for scared]]
 - [[Scarcity has within it the notion of not enough]]
 
 ## Lexicon

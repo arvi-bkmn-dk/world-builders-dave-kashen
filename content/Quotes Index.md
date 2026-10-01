@@ -51,7 +51,7 @@ Dave's lines worth keeping as their own note. **One source is enough** — a quo
 
 ## HoE 05 - One Hundred Percent Responsibility
 - [[Scarcity has within it the notion of not enough|Scarcity has within it the notion of not enough]]
-- [[Stress and overwhelm are white collar words for scared|Stress and overwhelm are white collar words for scared]]
+- [[Stress and overwhelm are white collar words for scared (quote)|Stress and overwhelm are white collar words for scared]]
 
 ## HoE 06 - The Acknowledgement Party
 - [[The conditions we learn to survive become the conditions upon which our continued survival depends|The conditions we learn to survive become the conditions upon which our continued survival depends]]
