@@ -1,4 +1,5 @@
 {
+  "framework": null,
   "buildCommand": "npx quartz build",
   "outputDirectory": "public",
   "installCommand": "npm install"
