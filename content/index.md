@@ -3,13 +3,19 @@ title: Dave Kashen Knowledge Base
 type: index
 ---
 
-**A knowledge base of Dave Kashen's published work on the inner game of building a company.**
+**A knowledge base of the published work of Dave Kashen, startup CEO coach.**
 
 <div class="graph-container home-web" data-cfg='{"drag":true,"zoom":true,"depth":-1,"scale":0.6,"repelForce":0.7,"centerForce":0.12,"linkDistance":40,"fontSize":0.5,"opacityScale":1,"showTags":false,"removeTags":[],"focusOnHover":true,"enableRadial":false}'></div>
 
 Every dot is a note and every line a link. Hover to light up connections, scroll to zoom, click to open. 🔵 Sources · 🔴 Teachings · 🟢 Mental Models · 🟣 Topics · 🟠 Quotes · Teal Practices · 🟡 Lexicon · Pink Orgs and Collaborators. More on reading it: [[Explore the Knowledge Graph]].
 
-Dave Kashen coaches startup founders. He was a two-time venture-backed founder himself — Worklife (YC-backed, acquired by Cisco) and Wellsphere (acquired by HealthCentral) — and he now works with CEOs on the part of the job that strategy decks don't cover: fear, identity, presence, and what a leader's inner state does to a company. He co-hosts *The Heart of Entrepreneurship* with Jesse Pujji.
+## About Dave
+
+Dave Kashen is a transformational speaker and coach to startup founders. Over the last 16 years his clients have impacted over 1B people's lives and created more than $100 billion in value. He has worked with the founders of Instagram, Udemy, Coinbase, Solana, Chargebee and VRChat, as well as GPs of top-tier VCs and billion-dollar hedge fund managers, and The Information has named him one of Silicon Valley's top coaches. His focus is the inner game: equipping entrepreneurs "with the tools to win their inner game and scale their outer impact."
+
+An entrepreneur himself, he co-founded and led multiple venture-backed startups, including Worklife (YC-backed, acquired by Cisco) and Wellsphere (acquired by Sequoia/IAC-backed HealthCentral), and co-founded Fearless Ventures, a mission-driven VC fund. He hosts *The Heart of Entrepreneurship* podcast, created the *Unleashed* conference series, and is the author of the upcoming book *The Unicorn Mindset: 7 Secrets of The Most Successful Entrepreneurs*. He graduated from The Wharton School (summa cum laude) and Stanford GSB (MBA), and early in his career worked at Goldman Sachs and SPO Partners.
+
+*From [davekashen.com/about](https://www.davekashen.com/about).*
 
 His material is scattered across 142 newsletters, episodes, articles, interviews and workshops. This is that material, broken into linked notes so an idea can be followed wherever it appears.
 
