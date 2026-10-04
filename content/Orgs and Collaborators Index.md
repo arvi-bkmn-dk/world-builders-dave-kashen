@@ -50,3 +50,4 @@ A distinct relationship from collaborator. These are **upstream** by definition:
 | [[Carl Jung]] | GA 01 | embracing the shadow so you don't project it |
 | [[Alan Watts]] | GA 01 | "there's just the happening" |
 | [[Landmark Forum]] | GA 01 | what happened vs the stories you make up |
+| [[Andy Grove]] | NL 22, NL 93 | feedback as high-leverage work; *only the paranoid survive*, which Dave pushes back on |

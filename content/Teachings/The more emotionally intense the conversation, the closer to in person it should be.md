@@ -3,7 +3,7 @@ title: "The more emotionally intense the conversation, the closer to in person i
 type: teaching
 topics: [Leading Other People]
 subtopics: [Communication Conflict and Boundaries, Leadership and Team Development]
-sources: ["NL 82 - It's Only Lonely at the Top If You Can't Be Yourself There"]
+sources: ["NL 82 - It's Only Lonely at the Top If You Can't Be Yourself There", "NL 93 - How to Create a Team Culture of Honest Feedback"]
 phrasing: dave
 ---
 
@@ -25,3 +25,9 @@ The choice of channel can be a way to lower the intensity. Written words feel sa
 ## Also in [[NL 82 - It's Only Lonely at the Top If You Can't Be Yourself There]]
 
 > In person beats video, video beats phone, and all of it beats Slack, which abstracts away the human connection layer.
+
+## Also in [[NL 93 - How to Create a Team Culture of Honest Feedback]]
+
+Applied to feedback:
+
+> The more emotionally intense the feedback, the closer to in-person you want to be. A small process note can go over text. Anything about how someone is showing up deserves at least video.

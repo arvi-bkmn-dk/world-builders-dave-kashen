@@ -8,7 +8,7 @@ type: index
 
 Dave's lines worth keeping as their own note. **One source is enough** — a quote does not have to recur to earn a note (set 2026-09-12). Where a line does repeat across the corpus, its note lists every source it appears in, and that recurrence is worth recording; it is just not the price of entry. Source notes still keep their own **Notable Quotes** block.
 
-**74 quotes.** This folder is the compile target for the quotes sheet.
+**75 quotes.** This folder is the compile target for the quotes sheet.
 
 > [!note] Not all of these are Dave's own
 > Lines carrying an `attribution:` field come from teachers Dave credits by name — Diana Chapman and Conscious Leadership, Joe Hudson, Tara at Art of Accomplishment — or from Jesse. They belong in the corpus because Dave uses them, but the quotes sheet should credit them correctly.
@@ -145,6 +145,7 @@ Dave's lines worth keeping as their own note. **One source is enough** — a quo
 
 ## NL 48 - How To Be Collaborative And Decisive At The Same Time
 - [[Hard decisions are hard because either choice could be great (quote)|Hard decisions are hard because either choice could be great]]
+- [[The role of a leader is to decide in the face of uncertainty (quote)|The role of a leader is to decide in the face of uncertainty]]
 
 ## NL 57 - Your Humanity Is the Doorway
 - [[Rejecting humanity is just ego in disguise (quote)|Rejecting humanity is just ego in disguise]]

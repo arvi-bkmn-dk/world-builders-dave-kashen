@@ -7,7 +7,7 @@ type: index
 
 Atomic notes, one idea each.
 
-**490 teachings.**
+**497 teachings.**
 
 ### 0–9
 - [[90% of the time the issues my clients bring are literally not real]]
@@ -63,6 +63,7 @@ Atomic notes, one idea each.
 - [[Ask whether you are responding to your child or to your fear of who they might become]]
 - [[Ask whether you want to share a feeling for you or for them]]
 - [[Asking how the opposite could be true loosens the grip without requiring you to be wrong]]
+- [[Asking permission lets feedback be invited instead of imposed]]
 - [[Asking someone what they want shifts them above the line faster than solving the problem]]
 - [[Authentic alignment is the moat nobody can copy]]
 - [[Authentic wants arise from wholeness, compensatory behaviors arise from lack]]
@@ -93,6 +94,7 @@ Atomic notes, one idea each.
 - [[Capacity to be with uncertainty matters more than getting better at prediction]]
 - [[Care deeply and be willing to have your heart broken]]
 - [[Chasing spirituality is another ego game]]
+- [[Clarity is about you, certainty is about the future]]
 - [[Closing your heart does not protect you from the pain of leadership, it makes you carry it alone]]
 - [[Co-parents polarize, so the one who empathizes and the one who sets limits push each other further apart]]
 - [[Communicating to reveal instead of to control removes the thing there is to argue with]]
@@ -153,6 +155,7 @@ Atomic notes, one idea each.
 - [[Fear makes bad predictions]]
 - [[Fear of failure gets its power from staying vague]]
 - [[Fear-based motivation means being motivated by not wanting to feel scared]]
+- [[Feedback is an investment that pays out in all future behavior]]
 - [[Feel the rejection before you strategize or it leaks into the next meeting]]
 - [[Feeling anger is different from being angry at someone]]
 - [[Feeling stuck comes from trying to control what you cannot control]]
@@ -190,6 +193,7 @@ Atomic notes, one idea each.
 - [[Heroes require victims]]
 - [[High performance comes from clarity, presence and focus, not pressure]]
 - [[Hire leaders you believe would do the job as well as or better than you]]
+- [[Hold a decision the way a scientist holds a hypothesis]]
 - [[Holding an emotion in costs more energy than feeling it]]
 - [[How am I creating this is the question that converts acceptance into power]]
 - [[How much more could you just enjoy the things you are already doing]]
@@ -345,6 +349,7 @@ Atomic notes, one idea each.
 - [[Shame says I am bad and guilt says I did bad]]
 - [[Shame says you are the danger]]
 - [[Shared commitments and clear agreements are the key to thriving relationships]]
+- [[Sharing what you have been withholding brings you closer, not further apart]]
 - [[So much of our self-improvement comes from this fear triangle]]
 - [[Sometimes the most courageous thing to do is to let go]]
 - [[Sourcing control externally is thinking you need to control what you cannot]]
@@ -441,6 +446,7 @@ Atomic notes, one idea each.
 - [[Turn the whole world into a mirror]]
 
 ### U
+- [[Uncertainty is harder on us than a guaranteed bad outcome]]
 - [[Unexpressed boundaries turn into resentment]]
 - [[Unfelt feelings are the glue that keeps unwanted patterns in place]]
 - [[Unfelt sadness keeps you in the wrong business, job or relationship]]
@@ -488,6 +494,7 @@ Atomic notes, one idea each.
 - [[Who you are being makes a bigger difference than what you are saying]]
 - [[Willing means literally right now, not someday in the future]]
 - [[Withhold, withdraw, project is how relationships calcify]]
+- [[Without a number, people assume they are below the bar]]
 - [[Worrying about the future is pre-resisting what is]]
 - [[Would you be psyched to be stuck in the Cleveland Airport with this person]]
 - [[Would you let me take away all your setbacks and failures]]

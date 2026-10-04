@@ -4,7 +4,7 @@ type: mental-model
 kind: framework
 topics: [Emotions and Fear, Building the Business, Decisions and Clarity]
 subtopics: [Fear Risk and Uncertainty, Decision-Making and Clarity]
-sources: ["HoE 05 - One Hundred Percent Responsibility", "NL 38 - Are You Actually Cut Out to Be a Founder", "NL 58 - The Four Levels of Behavior Change", "NL 42 - Do You Doubt Yourself for Experiencing Doubt", "NL 54 - How I Created Four Years of Unnecessary Suffering", "NL 48 - How To Be Collaborative And Decisive At The Same Time", "NL 13 - The Real Reason Startups Fail", "NL 50 - When Should I Adjust My Team's Goals", "NL 06 - How to Let Go Without Losing Your Edge", "HoE 17 - Feeling Stuck"]
+sources: ["HoE 05 - One Hundred Percent Responsibility", "NL 38 - Are You Actually Cut Out to Be a Founder", "NL 58 - The Four Levels of Behavior Change", "NL 42 - Do You Doubt Yourself for Experiencing Doubt", "NL 54 - How I Created Four Years of Unnecessary Suffering", "NL 48 - How To Be Collaborative And Decisive At The Same Time", "NL 13 - The Real Reason Startups Fail", "NL 50 - When Should I Adjust My Team's Goals", "NL 06 - How to Let Go Without Losing Your Edge", "HoE 17 - Feeling Stuck", "NL 92 - Lead From Clarity, Not Certainty"]
 ---
 
 # Experiments Instead of Failure
@@ -78,3 +78,9 @@ Dave's own words on this, as their own notes:
 ## Sources
 
 - [[HoE 05 - One Hundred Percent Responsibility]]
+
+## Also in [[NL 92 - Lead From Clarity, Not Certainty]]
+
+Applied to decisions: hold the choice the way a scientist holds a hypothesis. → [[Hold a decision the way a scientist holds a hypothesis]]
+
+> Take the action, uncover the next card, learn. Value speed of learning over looking good.

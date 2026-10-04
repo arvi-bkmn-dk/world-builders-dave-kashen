@@ -41,3 +41,7 @@ Dave credits CLG explicitly and repeatedly — "to give credit where it's due." 
 ## Also in [[NL 71 - What You Feel Is Not What You Want]]
 
 Dave's departure: the founders asked him to go all in as a partner or move on, and he left, grieving it like a funeral. → [[The intensity of a feeling is not a guide to what you want]]
+
+## Also in [[NL 93 - How to Create a Team Culture of Honest Feedback]]
+
+Dave defines candor with CLG: the intersection of honesty, openness and self-awareness. → [[Sharing what you have been withholding brings you closer, not further apart]]

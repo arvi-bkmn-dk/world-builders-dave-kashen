@@ -9,7 +9,7 @@ type: index
 
 Dave Kashen coaches startup founders. He was a two-time venture-backed founder himself — Worklife (YC-backed, acquired by Cisco) and Wellsphere (acquired by HealthCentral) — and he now works with CEOs on the part of the job that strategy decks don't cover: fear, identity, presence, and what a leader's inner state does to a company. He co-hosts *The Heart of Entrepreneurship* with Jesse Pujji.
 
-His material is scattered across 140 newsletters, episodes, articles, interviews and workshops. This is that material, broken into linked notes so an idea can be followed wherever it appears.
+His material is scattered across 142 newsletters, episodes, articles, interviews and workshops. This is that material, broken into linked notes so an idea can be followed wherever it appears.
 
 ---
 
@@ -31,12 +31,12 @@ His material is scattered across 140 newsletters, episodes, articles, interviews
 |---|---|---|
 | [[Topics Index|Topics]] | 8 | The map. Each is an essay with the throughline and links down into the detail |
 | [[Mental Models Index|Mental Models]] | 73 | Dave's named frameworks, kept whole |
-| [[Practices Index|Practices]] | 28 | The exercises, paired to their models |
-| [[Teachings Index|Teachings]] | 490 | One idea per note, titled as a complete claim |
-| [[Quotes Index|Quotes]] | 74 | The lines he repeats, sourced to each place he says them |
+| [[Practices Index|Practices]] | 31 | The exercises, paired to their models |
+| [[Teachings Index|Teachings]] | 497 | One idea per note, titled as a complete claim |
+| [[Quotes Index|Quotes]] | 75 | The lines he repeats, sourced to each place he says them |
 | [[Lexicon Index|Lexicon]] | 26 | His coined vocabulary |
-| [[Orgs and Collaborators Index|Orgs & Collaborators]] | 60 | The teachers and bodies of work he draws on |
-| [[Sources Index|Sources]] | 140 | Newsletters, podcast episodes, articles, interviews, workshops |
+| [[Orgs and Collaborators Index|Orgs & Collaborators]] | 61 | The teachers and bodies of work he draws on |
+| [[Sources Index|Sources]] | 142 | Newsletters, podcast episodes, articles, interviews, workshops |
 
 ---
 

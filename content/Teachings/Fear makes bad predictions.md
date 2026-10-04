@@ -3,7 +3,7 @@ title: "Fear makes bad predictions"
 type: teaching
 topics: [Emotions and Fear]
 subtopics: [Fear Risk and Uncertainty]
-sources: ["HoE 17 - Feeling Stuck", "MB 05 - Founders, It Doesn't Have to Be This Hard", "NL 74 - The Single Biggest Lever for Scaling Your Company", "NL 77 - The Freedom in Imagining the Death of Your Startup", "NL 79 - The Four Types of Intelligences, Why Your Smartest Decisions Don't Come From Your Head"]
+sources: ["HoE 17 - Feeling Stuck", "MB 05 - Founders, It Doesn't Have to Be This Hard", "NL 74 - The Single Biggest Lever for Scaling Your Company", "NL 77 - The Freedom in Imagining the Death of Your Startup", "NL 79 - The Four Types of Intelligences, Why Your Smartest Decisions Don't Come From Your Head", "NL 92 - Lead From Clarity, Not Certainty"]
 phrasing: dave
 ---
 
@@ -15,7 +15,7 @@ Jesse names it: *"if I feel the fear, it's gonna come true. I can't even go ther
 
 > It's almost like a version of **magical thinking.** You could do it either way — *if I let myself feel that fear, then that bad thing's gonna happen.* And sometimes people do this magical thinking around manifesting: *if I just visualize it, it's gonna happen.*
 
-The respectable version has a book behind it — Andy Grove's *Only the Paranoid Survive*: *"if I don't think about everything that could go wrong, then I'm gonna miss something."*
+The respectable version has a book behind it — [[Andy Grove]]'s *Only the Paranoid Survive*: *"if I don't think about everything that could go wrong, then I'm gonna miss something."*
 
 Dave's answer is to check fear's track record:
 
@@ -62,3 +62,9 @@ The three predictions founders make about letting someone go: there'll be a gap 
 ## Source
 
 - [[HoE 17 - Feeling Stuck]]
+
+## Also in [[NL 92 - Lead From Clarity, Not Certainty]]
+
+> Faced with that uncertainty, your mind fills it in with the things you don't want to have happen.
+
+→ [[Uncertainty is harder on us than a guaranteed bad outcome]]

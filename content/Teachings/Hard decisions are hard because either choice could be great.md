@@ -3,7 +3,7 @@ title: "Hard decisions are hard because either choice could be great"
 type: teaching
 topics: [Decisions and Clarity]
 subtopics: [Decision-Making and Clarity]
-sources: ["NL 48 - How To Be Collaborative And Decisive At The Same Time"]
+sources: ["NL 48 - How To Be Collaborative And Decisive At The Same Time", "NL 92 - Lead From Clarity, Not Certainty"]
 phrasing: dave
 ---
 
@@ -34,3 +34,11 @@ This is the practical companion to [[Indecision is a feeling problem, not a thin
 ## Source
 
 - [[NL 48 - How To Be Collaborative And Decisive At The Same Time]]
+
+## Also in [[NL 92 - Lead From Clarity, Not Certainty]]
+
+Restated with a number on it:
+
+> And if the decision still feels hard, it's probably because it's close, 52/48. If the answer was obvious, it would be obvious.
+
+→ [[Feel the Fear Under the Need to Know]]

@@ -3,7 +3,7 @@ title: "The more you search for certainty, the more doubt you create"
 type: teaching
 topics: [Building the Business, The Inner Game, Decisions and Clarity]
 subtopics: [Decision-Making and Clarity, Fear Risk and Uncertainty]
-sources: ["NL 43 - Why Great Leaders Stop Looking for the Right Answer", "NL 48 - How To Be Collaborative And Decisive At The Same Time"]
+sources: ["NL 43 - Why Great Leaders Stop Looking for the Right Answer", "NL 48 - How To Be Collaborative And Decisive At The Same Time", "NL 92 - Lead From Clarity, Not Certainty"]
 phrasing: dave
 ---
 
@@ -49,3 +49,9 @@ And they trust a different instrument — "their energy, their intuition, their 
 ## Source
 
 - [[NL 43 - Why Great Leaders Stop Looking for the Right Answer]]
+
+## Also in [[NL 92 - Lead From Clarity, Not Certainty]]
+
+The same loop, with the mechanism named: the search itself makes the noise. → [[Clarity is about you, certainty is about the future]]
+
+> When you demand something that doesn't exist, its absence feels like confusion, so you keep searching, and the searching is the noise.

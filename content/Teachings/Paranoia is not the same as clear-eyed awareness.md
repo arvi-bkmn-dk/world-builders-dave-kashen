@@ -9,7 +9,7 @@ phrasing: dave
 
 # Paranoia is not the same as clear-eyed awareness
 
-Dave taking on Andy Grove's *"only the paranoid survive"* — and he is careful about what he's disputing.
+Dave taking on [[Andy Grove]]'s *"only the paranoid survive"* — and he is careful about what he's disputing.
 
 > When Grove coined this phrase, he was speaking about **organizational vigilance toward external market shifts.** But over time, this concept has morphed into something more toxic: the idea that living in a perpetual state of anxiety is necessary for entrepreneurial success.
 

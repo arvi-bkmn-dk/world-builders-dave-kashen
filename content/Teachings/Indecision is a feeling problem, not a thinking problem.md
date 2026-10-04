@@ -3,7 +3,7 @@ title: "Indecision is a feeling problem, not a thinking problem"
 type: teaching
 topics: [Building the Business, Emotions and Fear, Decisions and Clarity]
 subtopics: [Decision-Making and Clarity, Fear Risk and Uncertainty]
-sources: ["NL 48 - How To Be Collaborative And Decisive At The Same Time"]
+sources: ["NL 48 - How To Be Collaborative And Decisive At The Same Time", "NL 92 - Lead From Clarity, Not Certainty"]
 phrasing: dave
 ---
 
@@ -39,3 +39,9 @@ What helps, in his list:
 ## Source
 
 - [[NL 48 - How To Be Collaborative And Decisive At The Same Time]]
+
+## Also in [[NL 92 - Lead From Clarity, Not Certainty]]
+
+NL 92 builds a whole newsletter on this: the cycle of needing to know is held together by unfelt fear, and the way out is to feel it. It closes on the same line as NL 48. → [[Feel the Fear Under the Need to Know]] · [[The role of a leader is to decide in the face of uncertainty (quote)]]
+
+> The role of a leader is to decide in the face of uncertainty, and that means deciding in the face of fear.

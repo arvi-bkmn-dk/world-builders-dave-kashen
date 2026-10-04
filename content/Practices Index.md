@@ -7,13 +7,15 @@ type: index
 
 Things Dave has people *do* — exercises, check-ins, releasing methods. Each names the mental model it is meant to be done with, where there is one. Course, workshop and lead-magnet material.
 
-**28 practices.**
+**31 practices.**
 
 ### C
 - [[Calibrate Your Yes With Your Extremes]]
 - [[Connect Before You Direct]]
 
 ### F
+- [[Feedback Sentence Stems]]
+- [[Feel the Fear Under the Need to Know]]
 - [[Find What Pulls You Out of Presence]]
 - [[Four by Four Breathing]]
 
@@ -31,6 +33,7 @@ Things Dave has people *do* — exercises, check-ins, releasing methods. Each na
 - [[Letting Go of Judgment, Resistance and Attachment]]
 
 ### R
+- [[Real-Time Group Feedback]]
 - [[Resist the Feeling, Then Welcome It]]
 - [[Reverse Engineer Your Values]]
 

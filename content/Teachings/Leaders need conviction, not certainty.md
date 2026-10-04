@@ -3,7 +3,7 @@ title: "Leaders need conviction, not certainty"
 type: teaching
 topics: [Leading Other People, Building the Business]
 subtopics: [Leadership and Team Development, Fear Risk and Uncertainty]
-sources: ["GA 03 - The Inner Game of Entrepreneurship, The Conscious Entrepreneur Podcast"]
+sources: ["GA 03 - The Inner Game of Entrepreneurship, The Conscious Entrepreneur Podcast", "NL 92 - Lead From Clarity, Not Certainty"]
 phrasing: dave
 ---
 
@@ -29,3 +29,9 @@ Conviction is different and essential: holding a compelling vision and believing
 ## Source
 
 - [[GA 03 - The Inner Game of Entrepreneurship, The Conscious Entrepreneur Podcast]]
+
+## Also in [[NL 92 - Lead From Clarity, Not Certainty]]
+
+Dave draws the line between the two again, this time to show that conviction belongs on the clarity side. → [[Clarity is about you, certainty is about the future]]
+
+> You can even have conviction, a strong feeling or intuition about the way to go, without pretending it's certainty.

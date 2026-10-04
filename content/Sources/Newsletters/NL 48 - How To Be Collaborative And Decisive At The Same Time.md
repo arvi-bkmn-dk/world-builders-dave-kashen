@@ -81,3 +81,7 @@ The call carries more than the newsletter: the blind-men-and-the-elephant route 
 
 > [!info] Full transcript not included
 > The public version of this vault keeps the notes, not the raw transcript. The original is published at its source.
+
+## Quotes Recurring Elsewhere
+
+- [[The role of a leader is to decide in the face of uncertainty (quote)]] (said again in NL 92)

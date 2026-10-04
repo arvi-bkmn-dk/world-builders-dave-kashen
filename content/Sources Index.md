@@ -7,7 +7,7 @@ type: index
 
 Every original public piece. The notes are kept here; the full transcripts are not — each original is published at its source.
 
-**140 sources.**
+**142 sources.**
 
 ### Podcast - Heart of Entrepreneurship
 - [[HoE 01 - Clean Fuel vs Dirty Fuel]]
@@ -140,6 +140,8 @@ Every original public piece. The notes are kept here; the full transcripts are n
 - [[NL 89 - Money Isn't the Problem, This is (2026 Revision)]]
 - [[NL 90 - Reading this email is meditation (2026 Revision)]]
 - [[NL 91 - The Power of Wonder, Why I Don't Know is Your Greatest Leadership Asset (2026 Revision)]]
+- [[NL 92 - Lead From Clarity, Not Certainty]]
+- [[NL 93 - How to Create a Team Culture of Honest Feedback]]
 
 ### Medium Blogs
 - [[MB 02 - The Course in Inner Peace]]

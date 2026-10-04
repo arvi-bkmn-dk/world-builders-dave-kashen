@@ -4,7 +4,7 @@ type: mental-model
 kind: principle
 topics: [Emotions and Fear]
 subtopics: [Fear Risk and Uncertainty]
-sources: ["NL 46 - I Jumped Off a Cliff 4 Times", "NL 59 - Why Coaching Unicorn Founders Often Leads to Spirituality", "HoE 18 - Following Your Aliveness", "WS 01 - The Inner Keys to Becoming a World-Class Leader"]
+sources: ["NL 46 - I Jumped Off a Cliff 4 Times", "NL 59 - Why Coaching Unicorn Founders Often Leads to Spirituality", "HoE 18 - Following Your Aliveness", "WS 01 - The Inner Keys to Becoming a World-Class Leader", "NL 92 - Lead From Clarity, Not Certainty"]
 phrasing: dave
 
 ---
@@ -53,3 +53,9 @@ Fear of failure is really *"oh, I don't wanna feel shame or embarrassed or scare
 ## Source
 
 - [[NL 46 - I Jumped Off a Cliff 4 Times]]
+
+## Also in [[NL 92 - Lead From Clarity, Not Certainty]]
+
+> At the physical level, that's all fear is: a sensation.
+
+→ [[Feel the Fear Under the Need to Know]]
