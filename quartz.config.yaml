@@ -220,7 +220,7 @@ plugins:
     enabled: true
     options:
       links:
-        Download the knowledge base (.zip): /dave-kashen-knowledge-base.zip
+        Download the knowledge base (.zip): https://github.com/arvi-bkmn-dk/world-builders-dave-kashen/releases/download/knowledge-base/dave-kashen-knowledge-base.zip
         Source on GitHub: https://github.com/arvi-bkmn-dk/world-builders-dave-kashen
         davekashen.com: https://www.davekashen.com
     layout:

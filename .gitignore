@@ -4,6 +4,10 @@ public/
 .npm-cache/
 .DS_Store
 *.log
-.github/
+.github/*
+!.github/workflows/
+.github/workflows/*
+!.github/workflows/knowledge-base-download.yml
+dist/
 Dockerfile
 .dockerignore

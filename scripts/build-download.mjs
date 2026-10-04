@@ -1,13 +1,13 @@
-// Build public/dave-kashen-knowledge-base.zip from content/ after `quartz build`.
-// The site serves it at a fixed URL, rebuilt on every deploy, so the download
-// is always the current published knowledge base. Pure Node (zlib only): the
-// Vercel build image is not guaranteed to have `zip` or Python.
+// Build dave-kashen-knowledge-base.zip from content/ (default: dist/).
+// .github/workflows/knowledge-base-download.yml runs it on every push to main
+// and attaches the zip to the `knowledge-base` GitHub release, so the download
+// link always serves the current published notes. Pure Node (zlib only).
 import fs from "node:fs"
 import path from "node:path"
 import zlib from "node:zlib"
 
 const SRC = "content"
-const OUT = "public/dave-kashen-knowledge-base.zip"
+const OUT = process.argv[2] || "dist/dave-kashen-knowledge-base.zip"
 const ROOT = "Dave Kashen Knowledge Base"
 
 const README = `# Dave Kashen Knowledge Base
