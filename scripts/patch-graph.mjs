@@ -4,6 +4,9 @@
 //   2. Clear the container right before attaching a canvas. Two renders that
 //      overlap (page load + nav event) otherwise stack two canvases, and the
 //      second spills out below the graph box over the page text.
+//   3. Keep labels a constant size on screen. Labels live inside the zoomed
+//      container, so they grew with the zoom and piled on top of each other;
+//      now they are divided by the zoom level and re-scaled on every zoom.
 // The build bundles dist/components/index.js, so both bundles are patched.
 // Fails loudly if the plugin changes and a target is no longer there.
 import fs from "node:fs"
@@ -39,6 +42,18 @@ const patches = [
     mark: "/*one-canvas*/",
     target: "_.appendChild(Q.canvas)",
     replacement: "/*one-canvas*/ke(_),_.appendChild(Q.canvas)",
+  },
+  {
+    name: "constant label size (scale)",
+    mark: "/*label-size*/",
+    target: "function qe(){for(var i=1/Vu,l=i*1.1",
+    replacement: "/*label-size*/function qe(){for(var i=1/Vu/(j&&j.k||1),l=i*1.1",
+  },
+  {
+    name: "constant label size (on zoom)",
+    mark: "/*label-zoom*/",
+    target: "ut=function(i){j=i.transform,",
+    replacement: "ut=function(i){j=i.transform,/*label-zoom*/qe(),",
   },
 ]
 

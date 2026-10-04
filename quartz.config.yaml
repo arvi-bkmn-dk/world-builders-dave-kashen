@@ -153,7 +153,7 @@ plugins:
         repelForce: 0.7
         centerForce: 0.12
         linkDistance: 40
-        fontSize: 0.5
+        fontSize: 0.45
     layout:
       position: right
       priority: 10
