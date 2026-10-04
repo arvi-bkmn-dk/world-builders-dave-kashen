@@ -40,3 +40,36 @@ body[data-slug="index"] {
   border: 1px solid var(--lightgray);
   border-radius: 8px;
 }
+
+// Keep every graph inside its box: clip overflow, and only ever show one canvas.
+.graph-container {
+  position: relative;
+  overflow: hidden;
+  & > canvas {
+    display: block;
+  }
+  & > canvas:not(:last-child) {
+    display: none;
+  }
+}
+
+// Colour key for the home page web
+.web-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.1rem;
+  margin: 0.5rem 0 0;
+  font-size: 0.95rem;
+  color: var(--darkgray);
+  & span {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  & i {
+    display: inline-block;
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 50%;
+  }
+}

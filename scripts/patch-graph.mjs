@@ -1,16 +1,17 @@
-// Colour graph nodes by note type, like Obsidian's graph colour groups.
-// @quartz-community/graph only colours current / visited / other, so this
-// patches its inline script after every `npm install` (wired as postinstall).
-// Fails loudly if the plugin changes and the target code is no longer there.
+// Patches @quartz-community/graph after every `npm install` (wired as postinstall).
+//   1. Colour nodes by note type, like Obsidian's graph colour groups. The
+//      plugin only colours current / visited / other.
+//   2. Clear the container right before attaching a canvas. Two renders that
+//      overlap (page load + nav event) otherwise stack two canvases, and the
+//      second spills out below the graph box over the page text.
+// The build bundles dist/components/index.js, so both bundles are patched.
+// Fails loudly if the plugin changes and a target is no longer there.
 import fs from "node:fs"
 
 const files = [
   "node_modules/@quartz-community/graph/dist/index.js",
   "node_modules/@quartz-community/graph/dist/components/index.js",
 ]
-const MARK = "/*type-colours*/"
-const target =
-  'function $e(i){var l=i.id===g;return l?Ie:K.has(i.id)||i.id.startsWith("tags/")?Qu:ue}'
 
 const colours = {
   sources: "#4a90d9",
@@ -23,9 +24,23 @@ const colours = {
   "orgs-and-collaborators": "#d46aa6",
 }
 
-const replacement =
-  `${MARK}function $e(i){if(i.id===g)return Ie;var m=${JSON.stringify(colours)};` +
-  `var f=i.id.split("/")[0];return m[f]||ue}`
+const patches = [
+  {
+    name: "node colours by type",
+    mark: "/*type-colours*/",
+    target:
+      'function $e(i){var l=i.id===g;return l?Ie:K.has(i.id)||i.id.startsWith("tags/")?Qu:ue}',
+    replacement:
+      `/*type-colours*/function $e(i){if(i.id===g)return Ie;var m=${JSON.stringify(colours)};` +
+      `var f=i.id.split("/")[0];return m[f]||ue}`,
+  },
+  {
+    name: "one canvas per container",
+    mark: "/*one-canvas*/",
+    target: "_.appendChild(Q.canvas)",
+    replacement: "/*one-canvas*/ke(_),_.appendChild(Q.canvas)",
+  },
+]
 
 let failed = false
 for (const file of files) {
@@ -33,15 +48,18 @@ for (const file of files) {
     console.log(`[patch-graph] ${file} not installed, skipping`)
     continue
   }
-  const src = fs.readFileSync(file, "utf8")
-  if (src.includes(MARK)) {
-    console.log(`[patch-graph] ${file} already patched`)
-  } else if (src.includes(target)) {
-    fs.writeFileSync(file, src.replace(target, replacement))
-    console.log(`[patch-graph] ${file} node colours by type applied`)
-  } else {
-    console.error(`[patch-graph] target code not found in ${file} — the graph plugin changed; update this script`)
-    failed = true
+  let src = fs.readFileSync(file, "utf8")
+  for (const p of patches) {
+    if (src.includes(p.mark)) {
+      console.log(`[patch-graph] ${file}: ${p.name} already applied`)
+    } else if (src.includes(p.target)) {
+      src = src.replace(p.target, p.replacement)
+      console.log(`[patch-graph] ${file}: ${p.name} applied`)
+    } else {
+      console.error(`[patch-graph] ${file}: target for "${p.name}" not found — the graph plugin changed; update this script`)
+      failed = true
+    }
   }
+  fs.writeFileSync(file, src)
 }
 if (failed) process.exit(1)
