@@ -72,6 +72,16 @@ His material is scattered across 142 newsletters, episodes, articles, interviews
 
 ---
 
+## Take it with you
+
+The whole knowledge base is free to download as plain Markdown notes, ready to open in Obsidian or any other notes app. The link always points to the latest version.
+
+<p><a href="/dave-kashen-knowledge-base.zip" download data-router-ignore><strong>⬇ Download the Dave Kashen Knowledge Base (.zip)</strong></a></p>
+
+In Obsidian, unzip it and choose *Open folder as vault*. The graph comes preset with the same colours as the map above. The source is also on [GitHub](https://github.com/arvi-bkmn-dk/world-builders-dave-kashen).
+
+---
+
 ## How to read it
 
 **Every quote is verbatim.** Blockquotes are Dave's exact words from a published source, not paraphrase. Each note names the source it came from.

@@ -1,6 +1,6 @@
 {
   "framework": null,
-  "buildCommand": "npx quartz build",
+  "buildCommand": "npx quartz build && node scripts/build-download.mjs",
   "outputDirectory": "public",
   "installCommand": "npm install",
   "cleanUrls": true,
