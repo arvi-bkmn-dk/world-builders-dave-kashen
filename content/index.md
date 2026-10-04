@@ -3,9 +3,11 @@ title: Dave Kashen Knowledge Base
 type: index
 ---
 
-# Dave Kashen Knowledge Base
-
 **A knowledge base of Dave Kashen's published work on the inner game of building a company.**
+
+<div class="graph-container home-web" data-cfg='{"drag":true,"zoom":true,"depth":-1,"scale":0.6,"repelForce":0.7,"centerForce":0.12,"linkDistance":40,"fontSize":0.5,"opacityScale":1,"showTags":false,"removeTags":[],"focusOnHover":true,"enableRadial":false}'></div>
+
+Every dot is a note and every line a link. Hover to light up connections, scroll to zoom, click to open. 🔵 Sources · 🔴 Teachings · 🟢 Mental Models · 🟣 Topics · 🟠 Quotes · Teal Practices · 🟡 Lexicon · Pink Orgs and Collaborators. More on reading it: [[Explore the Knowledge Graph]].
 
 Dave Kashen coaches startup founders. He was a two-time venture-backed founder himself — Worklife (YC-backed, acquired by Cisco) and Wellsphere (acquired by HealthCentral) — and he now works with CEOs on the part of the job that strategy decks don't cover: fear, identity, presence, and what a leader's inner state does to a company. He co-hosts *The Heart of Entrepreneurship* with Jesse Pujji.
 
@@ -29,14 +31,14 @@ His material is scattered across 142 newsletters, episodes, articles, interviews
 
 | | | |
 |---|---|---|
-| [[Topics Index|Topics]] | 8 | The map. Each is an essay with the throughline and links down into the detail |
-| [[Mental Models Index|Mental Models]] | 73 | Dave's named frameworks, kept whole |
-| [[Practices Index|Practices]] | 31 | The exercises, paired to their models |
-| [[Teachings Index|Teachings]] | 497 | One idea per note, titled as a complete claim |
-| [[Quotes Index|Quotes]] | 75 | The lines he repeats, sourced to each place he says them |
-| [[Lexicon Index|Lexicon]] | 26 | His coined vocabulary |
-| [[Orgs and Collaborators Index|Orgs & Collaborators]] | 61 | The teachers and bodies of work he draws on |
-| [[Sources Index|Sources]] | 142 | Newsletters, podcast episodes, articles, interviews, workshops |
+| [[Topics Index\|Topics]] | 8 | The map. Each is an essay with the throughline and links down into the detail |
+| [[Mental Models Index\|Mental Models]] | 73 | Dave's named frameworks, kept whole |
+| [[Practices Index\|Practices]] | 31 | The exercises, paired to their models |
+| [[Teachings Index\|Teachings]] | 497 | One idea per note, titled as a complete claim |
+| [[Quotes Index\|Quotes]] | 75 | The lines he repeats, sourced to each place he says them |
+| [[Lexicon Index\|Lexicon]] | 26 | His coined vocabulary |
+| [[Orgs and Collaborators Index\|Orgs & Collaborators]] | 61 | The teachers and bodies of work he draws on |
+| [[Sources Index\|Sources]] | 142 | Newsletters, podcast episodes, articles, interviews, workshops |
 
 ---
 
