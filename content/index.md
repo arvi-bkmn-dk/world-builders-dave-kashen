@@ -11,11 +11,11 @@ This is Dave's body of work drawn as a map. Every **dot** is one note: an idea h
 
 **Colour** tells you what kind of note a dot is. **Size** tells you how connected it is: the bigger the dot, the more of Dave's work runs through it. The big coloured hubs are the ideas he returns to most, like [[The Inner Game]], [[Clean Fuel and Dirty Fuel]], [[Above and Below the Line]] and [[Core Beliefs]]. The large grey dots are this site's index pages, which link to everything.
 
-Hover a dot to light up what it connects to. Scroll to zoom in until the names appear, drag to move around, and click any dot to open that note. More on reading it: [[Explore the Knowledge Graph]].
+Hover a dot to see its name and light up what it connects to, and click to open that note. To zoom in and roam around, press **⌘G** (Ctrl+G on Windows) or open [[Explore the Knowledge Graph]].
 
 <div class="web-key"><span><i style="background:#e05d5d"></i>Teachings: one idea per note</span><span><i style="background:#4caf7a"></i>Mental Models: his named frameworks</span><span><i style="background:#2fb3a8"></i>Practices: exercises to do</span><span><i style="background:#e8a33d"></i>Quotes</span><span><i style="background:#c9b23a"></i>Lexicon: his coined words</span><span><i style="background:#9b6dd6"></i>Topics: the big themes</span><span><i style="background:#d46aa6"></i>People and orgs he learned from</span><span><i style="background:#4a90d9"></i>Sources: newsletters, episodes, articles</span></div>
 
-<div class="graph-container home-web" data-cfg='{"drag":true,"zoom":true,"depth":-1,"scale":0.6,"repelForce":0.7,"centerForce":0.12,"linkDistance":40,"fontSize":0.5,"opacityScale":1,"showTags":false,"removeTags":[],"focusOnHover":true,"enableRadial":false}'></div>
+<div class="graph-container home-web" data-cfg='{"drag":false,"zoom":false,"depth":-1,"scale":0.6,"repelForce":0.7,"centerForce":0.12,"linkDistance":40,"fontSize":0.5,"opacityScale":1,"showTags":false,"removeTags":[],"focusOnHover":true,"enableRadial":false}'></div>
 
 
 ## About Dave

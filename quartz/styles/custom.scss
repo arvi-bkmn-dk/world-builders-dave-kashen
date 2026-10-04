@@ -73,3 +73,9 @@ body[data-slug="index"] {
     border-radius: 50%;
   }
 }
+
+// The home web is fixed (no zoom / pan), so let touch swipes scroll the page.
+// PixiJS sets touch-action: none inline on its canvas; override it.
+.graph-container.home-web > canvas {
+  touch-action: pan-y !important;
+}
